@@ -1,0 +1,1000 @@
+  698  cd Downloads/
+  699  ls
+  700  cd Python
+  701  cd Python-3.8.3.tar.xz
+  702  cd
+  703  ./configure
+  704  sudo apt-get update 
+  705  sudo apt-get install dirmngr
+  706  gpg --recv-key AA65421D
+  707  python --v
+  708  cd Downloads/
+  709  ls
+  710  cd Python-3.8.3/
+  711  ./configure
+  712  sudo make 
+  713  sudo make install
+  714  python3
+  715  pip install pipenv
+  716  pipenv shell
+  717  pip install pipenv
+  718  pip install --upgrade setuptools
+  719  pip install pipenv
+  720  pipenv shell
+  721  sudo pip install pipenv
+  722  pipenv shell
+  723  sudo -H pip install -U pipenv
+  724  pipenv shell
+  725  sudo chmod go=r /etc/apt/sources.list.d/passenger.list
+  726  pipenv install django
+  727  pipenv shell
+  728  sudo pip install pipenv
+  729  sudo pip install -m  pipenv
+  730  sudo pip -m  install   pipenv
+  731  sudo pip3  install pipenv
+  732  sudo -H pip3  install -U pipenv
+  733  python3 -m pipenv 
+  734  sudo  pip3  install -m pipenv
+  735  pip uninstall pipenv
+  736  pip3 install pipenv
+  737  sudo -H pip3  install -U pipenv
+  738  cd Desktop/
+  739  cd myBlog/
+  740  cd
+  741  sudo apt update
+  742  sudo apt install python3
+  743  python3
+  744  cd Desktop/
+  745  cd myBlog/
+  746  code .
+  747  cd
+  748  sudo pip install pipenv
+  749  cd Desktop/
+  750  cd myBlog/
+  751  pipenv --python python3
+  752  pipeenv install django
+  753  sudo install django
+  754  sudo pip install pipenv
+  755  pipenv --python python3
+  756  sudo chmod go=r /etc/apt/sources.list.d/additional-respositories.list
+  757  /etc/apt/sources.list.d/additional-repositories.list
+  758  sudo chmod go=r /etc/apt/sources.list.d/additional-repositories.list
+  759  sudo pip install pipenv
+  760  pipenv --python python3
+  761  sudo apt update
+  762  pipenv --python python3
+  763  pip install --user pipenv
+  764  pipenv shell
+  765  pip install pipenv
+  766  pip3 install pipenv
+  767  sudo apt install python3-pip
+  768  pip install pipenv
+  769  pipenv shell
+  770  pip install pipenv
+  771  pip3 install pipenv
+  772  pipenv shell
+  773  sudo apt-get install python3.6-dev libmysqlclient-dev
+  774  pip3 install pipenv
+  775  pip shell
+  776  python -m pip install --upgrade --force-reinstall pip
+  777  pip shell
+  778  pipenv shell
+  779  sudo pip install pipenv
+  780  sudo -H pip install -U pipenv
+  781  pip install --upgrade setuptools
+  782  pip install --upgrade setuptools --user python
+  783  sudo apt-get install libpcap-dev libpq-dev
+  784  pipenv shell
+  785  pip install --no-cache-dir pipenv
+  786  pipenv -v
+  787  sudo python3 -m pip install --upgrade pip
+  788  pip init
+  789  pipsudo apt update
+  790  sudo apt update
+  791  sudo apt install python3-pip
+  792  pip3 --version
+  793  pip shell
+  794  sudo pip install pipenv
+  795  sudo pip install pipenv -h
+  796  pip list --outdated
+  797  sudo apt upgrade
+  798  run apt-get update
+  799  sudo pip install pipenv 
+  800  sudo pipenv shell
+  801  sudo install django
+  802  pipenv  shell
+  803  cd Desktop/
+  804  cd myBlog/
+  805  code .
+  806  sudo pip install pipenv 
+  807  pipenv shell
+  808  pipenv install django
+  809  sudo pipenv install django
+  810  pipenv install django
+  811  sudo apt-get install python-setuptools
+  812  sudo easy_install --upgrade django
+  813  sudo pipenv install django
+  814  pip installl django
+  815  pip install django
+  816  sudo pip install django
+  817  django-admin startproject myBlog
+  818  cd myBlog/
+  819  ls
+  820  python manage.py runserver 8080
+  821  pipenv install django
+  822  cd Desktop/
+  823  cd myBlog/
+  824  code . 
+  825  pipenv shell
+  826  cd
+  827  ls
+  828  cd Desktop/
+  829  cd myBlog/
+  830  python manage.py run server
+  831  django-admin start project django-blog
+  832  django-admin startproject django-blog
+  833  django-admin startproject djangoBlog
+  834  cd djangoBlog/
+  835  python manage.py runserver
+  836  cd ..
+  837  python manage.py runserver
+  838  ls
+  839  cd djangoBlog/
+  840  python manage.py runserver
+  841  cd ..
+  842  remove django
+  843  pipenv shell
+  844  cd djangoBlog/
+  845  python manage.py run server
+  846  cd .
+  847  python3 -m pip install --user --upgrade pip
+  848  pipenv shell
+  849  pip install pipenv
+  850  pip shell
+  851  pipenv shell
+  852  pipenv install django
+  853  pipenv install django
+  854  django-admin startproject djangoBlog
+  855  cd djangoBlog/
+  856  python manage.py run server
+  857  pip install pipenv
+  858  pipenv shell
+  859  pipenv install django
+  860  sudo pipenv install django
+  861  sudo pip3env install django
+  862  pip install django
+  863  sudo pip3env install django
+  864  sudo pipenv install django
+  865  sudo pip install django
+  866  sudo apt-get install python-setuptools
+  867  cd ..
+  868  cd myBlog/]
+  869  cd myBlog/
+  870  pipenv install django
+  871  cd ..
+  872  ls
+  873  cd django-myBlog/
+  874  ls
+  875  cd djangoBlog/
+  876  pipenv install django
+  877  djano-admin startproject djangoBlog
+  878  django-admin startproject djangoBlog
+  879  cd djangoBlog/
+  880  pyhton manage.py runserver
+  881  pyhton3 manage.py runserver
+  882  pyhton manage.py runserver
+  883  pipenv shell
+  884  python manage.py startapp articles
+  885  run ls
+  886  ls
+  887  run django --v
+  888  django -V
+  889  pip install django
+  890  pip3 install django
+  891  python -m django --version
+  892  pip -V
+  893  pip install django
+  894  pip3 install django
+  895  cd Desktop/
+  896  mkdir django-myBlog
+  897  cd django-myBlog/
+  898  code .
+  899  cd ..
+  900  mkdir django
+  901  code . 
+  902  cd django
+  903  code .
+  904  cd ..
+  905  mkdir hey
+  906  cd hey
+  907  code .
+  908  cd ..
+  909  mkdir django-project
+  910  cd django-project/
+  911  code .
+  912  cd Desktop/
+  913  mkdir Django-project
+  914  cd Django-project/
+  915  code .
+  916  wget https://www.python.org/downloads/release/python-383/
+  917  code .
+  918  wget https://www.python.org/ftp/python/3.8.3/Python-3.8.3.tgz
+  919  pip3 install django
+  920  django-admin startproject djangoBlog
+  921  cd djangoBlog/
+  922  python manage.py runserver
+  923  django-admin help
+  924  pip install django
+  925  cd djangoBlog/
+  926  python manage.py runserver
+  927  python manage.py runserver .
+  928  python manage.py runserver.
+  929  python -V
+  930  pip -V
+  931  sudo apt-get install python3.8
+  932  python -V
+  933  python3 -V
+  934  pip unistall Python-2.7.17
+  935  pip uninstall Python-2.7.17
+  936  python -V
+  937  python3 -V
+  938  cd Desktop/
+  939  cd Django-project/
+  940  code .
+  941  /usr/local/bin/python3 /home/kurtlin/.vscode/extensions/ms-python.python-2020.5.80290/pythonFiles/pyvsc-run-isolated.py pip install -U pylint --user
+  942  cd djangoBlog/
+  943  python manage.py runserver
+  944  python3 manage.py runserver
+  945  cd ..
+  946  cd djangoBlog/
+  947  python manage.py startapp articles
+  948  python3 manage.py startapp articles
+  949  pyhton3 manage.py runserver
+  950  pyhton  manage.py runserver
+  951  python3 manage.py runserver
+  952  python3 manage.py migrate
+  953  python3 manage.py makemigrations
+  954  python3 manage.py migrate
+  955  python3 manage.py shell
+  956  python3 manage.py runserver
+  957  python3 manage.py createsuperuser
+  958  python3 manage.py runserver
+  959  git init
+  960  git status
+  961  git add .
+  962  git commit -m "first commit"
+  963  cd ..
+  964  git remote add origin https://github.com/kurtlin703/Django-myBlog.git
+  965  git push -u origin master
+  966  git status
+  967  cd djangoBlog/
+  968  cd ..
+  969  git init
+  970  git status
+  971  git add . 
+  972  git add .
+  973  git commit "first commit"
+  974  git commit -m  "first commit"
+  975  git remote add origin https://github.com/kurtlin703/Django-myBlog.git
+  976  git push -u origin master
+  977  git remote add origin https://github.com/kurtlin703/Django-myBlog.git
+  978  git push -u origin master
+  979  git push
+  980  git remote add origin https://github.com/kurtlin703/Django-myBlog.git
+  981  git push -u origin master
+  982  cd djangoBlog/
+  983  git remote add origin https://github.com/kurtlin703/Django-myBlog.git
+  984  git push -u origin master
+  985  git pull
+  986  git push
+  987  git status
+  988  cd ..
+  989  git status
+  990  git remote add origin https://github.com/kurtlin703/Django-myBlog.git
+  991  git push -u origin master
+  992  cd ..
+  993  cd Django-myBlog/
+  994  cd djangoBlog/
+  995  git push
+  996  git push --ser-upstream origin master
+  997  ls
+  998  git remote add origin https://github.com/kurtlin703/Django-myBlog.git
+  999  git push -u origin master
+ 1000  django-admin startproject djangoBlog
+ 1001  cd djangoBlog/
+ 1002  pyhton3 manage.py runserver
+ 1003  pyhton manage.py runserver
+ 1004  Python3 manage.py runserver
+ 1005  python3 manage.py runserver
+ 1006  cd Desktop/
+ 1007  mkdir Django-myBlog
+ 1008  cd Django-myBlog/
+ 1009  pip3 install django
+ 1010  sudo pip install --upgrade pip
+ 1011  sudo pip3 install --upgrade pip
+ 1012  pip3 install django
+ 1013  code .
+ 1014  shutdown now
+ 1015  cd Desktop/
+ 1016  cd Django-myBlog/
+ 1017  code .
+ 1018  cd djangoBlog/
+ 1019  python3 manage.py runserver
+ 1020  ls
+ 1021  git status
+ 1022  git add .
+ 1023  git commit -m "added more features"
+ 1024  git push
+ 1025  cd djangoBlog/
+ 1026  pyhon manage.py runserver
+ 1027  python3 manage.py runserver
+ 1028  python manage.py makemigrations
+ 1029  python3 manage.py makemigrations
+ 1030  pip install pillow
+ 1031  python3 manage.py makemigrations
+ 1032  python3 -m pip install pillow
+ 1033  python3 manage.py makemigrations
+ 1034  pyhton manage.py migrate
+ 1035  pyhton3  manage.py migrate
+ 1036  pyhton manage.py migrate
+ 1037  python3 manage.py migrate
+ 1038  python3 manage.py runserver
+ 1039  pyhton3 manage.py startapp accounts
+ 1040  pyhton manage.py startapp accounts
+ 1041  python3 manage.py startapp accounts
+ 1042  python3 manage.py runserver
+ 1043  git status
+ 1044  git add .
+ 1045  git commit -m "added more features"
+ 1046  git push
+ 1047  ls
+ 1048  cd djangoBlog/
+ 1049  python3 manage.py runserver
+ 1050  cd Dj
+ 1051  cd djangoBlog/
+ 1052  python3 manage.py runserver
+ 1053  cd Desktop/
+ 1054  cd Django-myBlog/
+ 1055  code .
+ 1056  /usr/local/bin/python3 /home/kurtlin/.vscode/extensions/ms-python.python-2020.5.80290/pythonFiles/pyvsc-run-isolated.py pip install -U autopep8 --user
+ 1057  ls
+ 1058  cd djangoBlog/
+ 1059  python3 manage.py runserver
+ 1060  cd Des
+ 1061  cd Desktop/
+ 1062  cd Django-myBlog/
+ 1063  code .
+ 1064  cd djangoBlog/
+ 1065  python3 manage.py runserver
+ 1066  cd Desktop/
+ 1067  cd Django-myBlog/
+ 1068  code .
+ 1069  ls
+ 1070  c djangoBlog/
+ 1071  cd dj
+ 1072  cd djangoBlog/
+ 1073  ls
+ 1074  python3 manage.py runserver
+ 1075  cd djangoBlog/
+ 1076  python3 manage.py runserver
+ 1077  git push
+ 1078  git status
+ 1079  git add .
+ 1080  git commit -m "add more features"
+ 1081  git push
+ 1082  cd Desktop/
+ 1083  cd lentswe/
+ 1084  git clone https://github.com/Lentswe215/gumtreeforcars.git
+ 1085  cd Desktop/
+ 1086  cd Django-myBlog/
+ 1087  code .
+ 1088  cd Desktop/
+ 1089  cd Django-myBlog/
+ 1090  code .
+ 1091  cd djangoBlog/
+ 1092  python3 manage.py runserver
+ 1093  python3 manage.py makemigrations
+ 1094  python3 manage.py runserver
+ 1095  python3 manage.py makemigrations
+ 1096  python3 manage.py migrate
+ 1097  python3 manage.py runserver
+ 1098  git status
+ 1099  git add .
+ 1100  git commit -m "add more features"
+ 1101  git push
+ 1102  cd djangoBlog/
+ 1103  python3 manage.py runserver
+ 1104  cd djangoBlog/
+ 1105  python3 manage.py runserver
+ 1106  git status
+ 1107  git add .
+ 1108  git status
+ 1109  git commit -m "modified files"
+ 1110  git push
+ 1111  cd Desktop/
+ 1112  cd Django-myBlog/
+ 1113  code .
+ 1114  cd Desktop/
+ 1115  cd Django-myBlog/
+ 1116  code .
+ 1117  cd djangoBlog/
+ 1118  python3 manage.py runserver
+ 1119  git status
+ 1120  git add .
+ 1121  git commit -m "modified files"
+ 1122  git push
+ 1123  restart now
+ 1124  restart
+ 1125  cd Desktop/
+ 1126  cd Django-myBlog/
+ 1127  code .
+ 1128  cd Desktop/
+ 1129  git clone https://github.com/iamshaunjp/django-playlist.git
+ 1130  cd clone\ work/
+ 1131  git clone https://github.com/iamshaunjp/django-playlist.git
+ 1132  cd Desktop/
+ 1133  cd gnomio/
+ 1134  git clone https://github.com/iamshaunjp/django-playlist.git
+ 1135  ls
+ 1136  cd djangoBlog/
+ 1137  python3 manage.py runserver
+ 1138  cd Desktop/
+ 1139  cd Django-myBlog/
+ 1140  code .
+ 1141  cd djangoBlog/
+ 1142  python3 manage.py runserver
+ 1143  cd Desktop/
+ 1144  cd Django-myBlog/
+ 1145  code .
+ 1146  cd djangoBlog/
+ 1147  python3 manage.py runserver
+ 1148  cd Desktop/
+ 1149  cd Django-myBlog/
+ 1150  code . 
+ 1151  cd djangoBlog/
+ 1152  python3 manage.py runserver
+ 1153  git status
+ 1154  git add .
+ 1155  git commit -m "modified files"
+ 1156  git push
+ 1157  cd Desktop/
+ 1158  cd clone\ work/
+ 1159  git clone https://github.com/Lentswe215/gumtreeforcars.git
+ 1160  cd gumtreeforcars/
+ 1161  code .
+ 1162  ls
+ 1163  python3 manage.py runserver
+ 1164  cd djangoBlog/
+ 1165  python3 manage.py runserver
+ 1166  cd Desktop/
+ 1167  cd Django-myBlog/
+ 1168  cd djangoBlog/
+ 1169  git status
+ 1170  git add . 
+ 1171  git commit -m "modified files"
+ 1172  git push
+ 1173  cd Desktop/
+ 1174  cd docker/
+ 1175  docker-compose up
+ 1176  sudo docker-compose down
+ 1177  sudo docker-compose up 
+ 1178  sudo service network-manager stop
+ 1179  sudo docker-compose up 
+ 1180  sudo docker ps
+ 1181  sudo docker ps -l
+ 1182  sudo docker ps -a // list all containers
+ 1183  sudo docker-compose up 
+ 1184  cd Desktop/
+ 1185  mkdir docker
+ 1186  cd into docker/
+ 1187  cd docker/
+ 1188  sudo apt install docker 
+ 1189  ls
+ 1190  sudo docker-compose up
+ 1191  touch docker-compose.yaml
+ 1192  cd Desktop/
+ 1193  cd Django-myBlog/
+ 1194  code .
+ 1195  cd djangoBlog/
+ 1196  python3 manage.py runserver
+ 1197  git add .
+ 1198  git commit -m "modified files"
+ 1199  git push
+ 1200  python3 manage.py runserver
+ 1201  git status
+ 1202  git add .
+ 1203  git commit -m "modified files"
+ 1204  git push
+ 1205  python3 manage.py runserver
+ 1206  cd Desktop/
+ 1207  cd Django-myBlog/
+ 1208  code .
+ 1209  cd djangoBlog/
+ 1210  python3 manage.py runsever 
+ 1211  python3 manage.py runserver
+ 1212  /usr/local/bin/python3 /home/kurtlin/.vscode/extensions/ms-python.python-2020.6.89148/pythonFiles/pyvsc-run-isolated.py pip install -U autopep8 --user
+ 1213  git status
+ 1214  cd djangoBlog/
+ 1215  git status
+ 1216  git add .
+ 1217  git commit - m "modified files"
+ 1218  git commit -m "modified files"
+ 1219  git push
+ 1220  cd Desktop/
+ 1221  cd Django-myBlog/
+ 1222  code . 
+ 1223  cd Desktop/
+ 1224  cd clone\ work/
+ 1225  la
+ 1226  ls
+ 1227  mkdir DjangoBlog
+ 1228  cd DjangoBlog/
+ 1229  git clone https://github.com/kurtlin703/Django-myBlog.git
+ 1230  ls
+ 1231  git status
+ 1232  git init
+ 1233  git status
+ 1234  git checkout -b 
+ 1235  git checkout -b second-branch
+ 1236  git status
+ 1237  git add .
+ 1238  git commit -m "initial commit"
+ 1239  git push
+ 1240  git push second-branch
+ 1241  ls
+ 1242  git push
+ 1243  git remote add
+ 1244  git remote add DjangoBlog https://github.com/kurtlin703/
+ 1245  git push DjangoBlog
+ 1246  git push --set-upstream DjangoBlog second-branch
+ 1247  git push
+ 1248  git remote add DjangoBlog https://github.com/kurtlin703/
+ 1249  git push DjangoBlog
+ 1250  git push --set-upstream DjangoBlog second-branch
+ 1251  git remote set-url origin https://kurtlin703@github.com/aceofwings/RotairERP.git
+ 1252  git remote set-url origin https://kurtlin703/github.com/aceofwings/RotairERP.git
+ 1253  git remote add origin https://github.com/kurtlin703/DjangoBlog.git
+ 1254  git push -u origin second-branch
+ 1255  sudo rmmod btusb
+ 1256  sleep 1
+ 1257  sudo modprobe btusb
+ 1258  suso apt update
+ 1259  sudo  apt update
+ 1260  sudo apt-get install --reinstall bluez
+ 1261  rfkill list
+ 1262  dmesg | grep Blue
+ 1263  sudo nano /etc/bluetooth/main.conf
+ 1264  systemctl restart bluetooth.service
+ 1265  rfkill block bluetooth
+ 1266  rfkill unblock bluetooth
+ 1267  sudo service bluetooth restart
+ 1268  sudo apt-get install unity-control-center
+ 1269  apt remove blueberry
+ 1270  apt install blueman
+ 1271  exit
+ 1272  cd Desktop/
+ 1273  cd clone\ work/
+ 1274  cd djangMyBlog/
+ 1275  git init
+ 1276  git status
+ 1277  git add .
+ 1278  git commit -m "initial commit"
+ 1279  git push
+ 1280  git add .
+ 1281  git init
+ 1282  cd Desktop/
+ 1283  cd clone\ work/
+ 1284  git clone https://github.com/kurtlin703/djangMyBlog.git
+ 1285  git clone https://github.com/kurtlin703/DjangoMyBlog.git
+ 1286  cd DjangoMyBlog/
+ 1287  django-admin start project
+ 1288  django-admin startapp
+ 1289  django-admin startapp DjangBlog
+ 1290  ls
+ 1291  cd DjangBlog/
+ 1292  git init
+ 1293  git add .
+ 1294  git commit -m "put project in this folder"
+ 1295  git push
+ 1296  git status
+ 1297  git add .
+ 1298  git commit -m "put project in this folder"
+ 1299  git push DjangoMyBlog
+ 1300  git push --set-upstream DjangoMyBlog master
+ 1301  git remote add origin https://github.com/kurtlin703/DjangoMyBlog.git
+ 1302  git push -u origin master
+ 1303  git checkout -b feature
+ 1304  git add .
+ 1305  git commit -m "initial commit"
+ 1306  git status
+ 1307  git init
+ 1308  git status
+ 1309  git init
+ 1310  git status
+ 1311  git add .
+ 1312  git commit -m "initial commit"
+ 1313  cd ..
+ 1314  c Desktop/
+ 1315  cd Desktop/
+ 1316  cd clone\ work/
+ 1317  cd DjangoMyBlog/
+ 1318  git init
+ 1319  git status
+ 1320  git checkout -b feature
+ 1321  git add .
+ 1322  git commit -m "in
+ 1323  git push
+ 1324  git commit -m "initial commit" git push --set-upstream origin feature
+ 1325  git push
+ 1326  git push --set-upstream origin feature
+ 1327  cd Desktop/
+ 1328  cd clone\ work/
+ 1329  git clone https://github.com/kurtlin703/PythonDjangoBlog.git
+ 1330  mkdir DjangoBlog
+ 1331  cd PythonDjangoBlog/
+ 1332  mkdir DjangoBlog
+ 1333  git init
+ 1334  git status
+ 1335  ls
+ 1336  git add .
+ 1337  git commit -m"put project in this folder"
+ 1338  git remote add origin https://github.com/kurtlin703/PythonDjangoBlog.git
+ 1339  git push -u origin master
+ 1340  git status
+ 1341  git add .
+ 1342  git commit -m"put project in this folder"
+ 1343  git remote add origin https://github.com/kurtlin703/PythonDjangoBlog.git
+ 1344  git push -u origin master
+ 1345  git add .
+ 1346  git commit -m "put project into this folder"
+ 1347  git push
+ 1348  git checkout -b feature
+ 1349  git status
+ 1350  git add .
+ 1351  git commit -m "initial commit"
+ 1352  git push
+ 1353  git push --set-upstream origin feature
+ 1354  cd Desktop/
+ 1355  cd clone\ work/
+ 1356  cd ..
+ 1357  cd javascript/
+ 1358  cd javascript_language_basics/
+ 1359  node index.js 
+ 1360  cd Desktop/
+ 1361  cd javascript/
+ 1362  cd javascript_language_basics/
+ 1363  code .
+ 1364  cd javascript/
+ 1365  cd javascript_language_basics/
+ 1366  code .
+ 1367  node index.js 
+ 1368  cd Desktop/
+ 1369  cd javascript/
+ 1370  cd javascript_language_basics/
+ 1371  code .
+ 1372  node loops_and_iteration.js 
+ 1373  node lastChallenge.js 
+ 1374  cd Desktop/
+ 1375  cd javascript/
+ 1376  cd javaScript_inTheBrowser_DOM_Manipulation_and_Events/
+ 1377  code .
+ 1378  cd Desktop/
+ 1379  cd javascript/
+ 1380  cd javascript_language_basics/
+ 1381  code .
+ 1382  touch lastChallenge.js
+ 1383  cd ..
+ 1384  mkdir how_js_worksBehind_theScenes.js
+ 1385  cd how_js_worksBehind_theScenes.js/
+ 1386  mkdir javaScript_inTheBrowser_DOM_Manipulation_and_Events
+ 1387  cd ..
+ 1388  mkdir javaScript_inTheBrowser_DOM_Manipulation_and_Events
+ 1389  cd javaScript_inTheBrowser_DOM_Manipulation_and_Events/
+ 1390  touch dom_&_Manipulation.js
+ 1391  touch DOM.js
+ 1392  cd ..
+ 1393  cd dice_game/
+ 1394  touch index.html
+ 1395  touch app.js
+ 1396  touch style.css
+ 1397  code . 
+ 1398  node creatingObjects.js 
+ 1399  node primitivesObjects.js 
+ 1400  cd Desktop/
+ 1401  cd javascript/
+ 1402  javaScript_inTheBrowser_DOM_Manipulation_and_Events/
+ 1403  cd javaScript_inTheBrowser_DOM_Manipulation_and_Events/
+ 1404  code .
+ 1405  cd .. 
+ 1406  mkdir objectsAndFunctions
+ 1407  cd objectsAndFunctions/
+ 1408  touch objectInheritance.js
+ 1409  touch creatingObjects.js
+ 1410  touch protoypeChain.js
+ 1411  touch creatingObjects.js
+ 1412  touch primitivesObjects.js
+ 1413  touch firstClass.js
+ 1414  touch firstClassFunctions.js
+ 1415  touch invokedFuntion.js
+ 1416  touch closures.js
+ 1417  bindAndApply.js
+ 1418  touch bindAndApply.js
+ 1419  touch challenge.js
+ 1420  code .
+ 1421  ..cd 
+ 1422  cd
+ 1423  shutdown
+ 1424  shutdown now
+ 1425  python3 manage.py runserver
+ 1426  cd ..
+ 1427  cd django
+ 1428  ls
+ 1429  cd djangoBlog/
+ 1430  ls
+ 1431  cd djangoBlog/
+ 1432  ls
+ 1433  cd
+ 1434  cd Desktop/
+ 1435  cd Django-myBlog/
+ 1436  ls
+ 1437  cd djangoBlog/
+ 1438  ls
+ 1439  python3 manage.py runserver
+ 1440  cd ../../clone\ work/
+ 1441  cd PythonDjangoBlog/
+ 1442  python3 manage.py runserver
+ 1443  git status
+ 1444  git add .
+ 1445  git commit -m "made changes to my database"
+ 1446  git push
+ 1447  python manage.py runserver
+ 1448  ls
+ 1449  python manage.py runserver
+ 1450  python3 manage.py runserver
+ 1451  cd Desktop/
+ 1452  cd personal_Website/
+ 1453  touch index.js
+ 1454  code .
+ 1455  cd Desktop/
+ 1456  cd weatherProject/
+ 1457  code . 
+ 1458  nodemon app.js 
+ 1459  cd Desktop/
+ 1460  cd personal_Website/
+ 1461  cd ..
+ 1462  weatherProject/
+ 1463  cd weatherProject/
+ 1464  code .
+ 1465  nodemon app.js 
+ 1466  cd Des
+ 1467  cd Desktop/
+ 1468  cd weatherProject/
+ 1469  code .
+ 1470  cd ..
+ 1471  cd personal_Website/
+ 1472  code /
+ 1473  code .
+ 1474  code . 
+ 1475  cd Desktop/
+ 1476  cd personal_Website/
+ 1477  code .
+ 1478  cd Desktop/
+ 1479  cd personal_Website/
+ 1480  code .
+ 1481  cd
+ 1482  cd Desktop/
+ 1483  cd clone\ work/
+ 1484  git clone 
+ 1485  git clone https://github.com/kurtlin703/password-checker.git
+ 1486  cd ..
+ 1487  cd nyc\ projeccts/
+ 1488  git clone https://github.com/kurtlin703/password-checker.git
+ 1489  cd password-checker/
+ 1490  code .
+ 1491  cd Desktop/
+ 1492  cd nyc\ projeccts/
+ 1493  cd password-checker/
+ 1494  code .
+ 1495  cd ..
+ 1496  cd personal_Website/
+ 1497  git init
+ 1498  git status
+ 1499  git add .
+ 1500  git commit -m "first commit"
+ 1501  git remote add origin https://github.com/kurtlin703/personal_Website.git
+ 1502  git push -u origin master
+ 1503  jasmine
+ 1504  git status
+ 1505  git add .
+ 1506  git commit -m "modified files"
+ 1507  git push
+ 1508  cd Des
+ 1509  cd Desktop/
+ 1510  cd javascript/
+ 1511  cd ajax/
+ 1512  touch asynchronous.js understandingAsync.js asyncCallback.js callbackHell.js promisesAsync.js ajaxApi.js ajaxCalls.js makingAjaxCalls.js  
+ 1513  code .
+ 1514  cd ../../..
+ 1515  cd 
+ 1516  ls
+ 1517  cd Desktop/
+ 1518  cd node_and_sql/
+ 1519  ls
+ 1520  code .
+ 1521  cd 
+ 1522  cd Desktop/
+ 1523  cd nyc\ projeccts/
+ 1524  git clone https://github.com/kurtlin703/Katas_exercise.git
+ 1525  cd Katas_exercise/
+ 1526  code .
+ 1527  cd ../../personal_Website/
+ 1528  code . 
+ 1529  cd Desktop/
+ 1530  cd weatherProject/
+ 1531  git init 
+ 1532  git status
+ 1533  git add .
+ 1534  git commit -m "first commit"
+ 1535  git remote add origin https://github.com/kurtlin703/weatherProject.git
+ 1536  git push -u origin master
+ 1537  cd ../javascript/
+ 1538  git init
+ 1539  git status
+ 1540  git add .
+ 1541  git commit -m "first commit"
+ 1542  git remote add origin https://github.com/kurtlin703/javascript.git
+ 1543  git push -u origin master
+ 1544  cd Desktop/
+ 1545  mkdir djangoCrashCourse
+ 1546  cd djangoCrashCourse/
+ 1547  cd ../personal_Website/
+ 1548  code . 
+ 1549  conda
+ 1550  cd Des
+ 1551  cd Desktop/
+ 1552  cd djangoCrashCourse/
+ 1553  django-admin startproject mysite
+ 1554  code .
+ 1555  cd
+ 1556  sudo apt-get update
+ 1557  sudo apt-get install curl
+ 1558  pip3 install django
+ 1559  pip install --upgrade pip
+ 1560  pip install django
+ 1561  cd mysite/
+ 1562  python3 manage.py runserver
+ 1563  python3 manage.py startapp polls
+ 1564  python3 manage.py runserver
+ 1565  cd Des
+ 1566  cd Desktop/
+ 1567  cd sql/
+ 1568  git init
+ 1569  npm init
+ 1570  ls
+ 1571  jasmine init
+ 1572  mkdir src
+ 1573  cd src/
+ 1574  touch sql.js
+ 1575  code .
+ 1576  cd ..
+ 1577  cd spe
+ 1578  cd spec/
+ 1579  touch vistorSpec.js
+ 1580  cd Desktop/
+ 1581  mkdir lentswe215
+ 1582  cd lentswe215/
+ 1583  git clone https://github.com/Lentswe215/Node_and_sql.git
+ 1584  git clone https://github.com/Lentswe215/SQL.git
+ 1585  git clone https://github.com/Lentswe215/ajax.git
+ 1586  ls
+ 1587  cd sql
+ 1588  code .
+ 1589  cd Desktop/
+ 1590  cd sql/
+ 1591  code .
+ 1592  sudo i pg s
+ 1593  sudo install pg s
+ 1594  npm  install pg s
+ 1595  npm install dotenv -s
+ 1596  sudo apt-get install dotenv
+ 1597  sudo apt-get install dotenv -s
+ 1598  sudo  install dotenv
+ 1599  npm install dotenv
+ 1600  npm install -S  dotenv
+ 1601  npm install -S pg
+ 1602  sudo apt-get remove docker docker-engine.io containerd
+ 1603  sudo apt-get update
+ 1604  sudo apt-get install apt-transport-https
+ 1605  sudo apt-get install ca-certificates
+ 1606  sudo apt-get curl
+ 1607  sudo apt-get gnupg-agent
+ 1608  sudo apt-key add -
+ 1609  sudo -i
+ 1610  npm install express
+ 1611  apt-get install express
+ 1612  install express
+ 1613  npm install express --save
+ 1614  cd ..
+ 1615  cd nodeAndExpress/
+ 1616  npm install express --save
+ 1617  cd Desktop/
+ 1618  mkdir express
+ 1619  cd express/
+ 1620  git init 
+ 1621  npm init
+ 1622  jasmine int 
+ 1623  jasmine init
+ 1624  cd src
+ 1625  mkdir src
+ 1626  cd src/
+ 1627  touch index.html
+ 1628  express.js
+ 1629  touch express.js
+ 1630  cd ..
+ 1631  code .
+ 1632  git status
+ 1633  git add .
+ 1634  git commit -m "initial commit"
+ 1635  git remote add origin https://github.com/kurtlin703/nodeAndSql.git
+ 1636  git push -u origin master
+ 1637  cd Desktop/
+ 1638  cd nodeAndExpress/
+ 1639  code .
+ 1640  cd src/
+ 1641  nodemon nodeAndExpress.js 
+ 1642  cd ..
+ 1643  git init 
+ 1644  git add .
+ 1645  git status 
+ 1646  git commit -m "initial commit"
+ 1647  git remote add origin https://github.com/kurtlin703/nodeAndExpress.git
+ 1648  git push -u origin master
+ 1649  git push
+ 1650  git remote add origin https://github.com/kurtlin703/nodeAndExpress.git
+ 1651  git push -u origin master
+ 1652  cd Desktop/
+ 1653  cd djangoCrashCourse/
+ 1654  code .
+ 1655  cd Desktop/
+ 1656  cd javascript/
+ 1657  code .
+ 1658  ls
+ 1659  cd mysite/
+ 1660  python manage.py makemigrations polls
+ 1661  python3  manage.py makemigrations polls
+ 1662  cd Desktop/
+ 1663  cd djangoCrashCourse/
+ 1664  code .
+ 1665  cd mysite/
+ 1666  activate mysite
+ 1667  python3 manage.py migrate 
+ 1668  python3 manage.py makemigrations
+ 1669  python3 manage.py migrate 
+ 1670  python3 manage.py shell
+ 1671  cd Desktop/
+ 1672  cd djangoCrashCourse/
+ 1673  code .
+ 1674  git init 
+ 1675  touch README.md
+ 1676  git status
+ 1677  git log
+ 1678  git add .
+ 1679  git commit -m "initial commit"
+ 1680  nano README.md 
+ 1681  cat README.md 
+ 1682  git status
+ 1683  git branch
+ 1684  git branch milkshake-flavours
+ 1685  git branch
+ 1686  git checkout milkshake-flavours 
+ 1687  nano milkshakes.md
+ 1688  git status
+ 1689  git add 
+ 1690  git add .
+ 1691  git commit -m "added new flavours"
+ 1692  git checkout master branch
+ 1693  git checkout masterbranch
+ 1694  git checkout master
+ 1695  git branch history
+ 1696  git checkout history 
+ 1697  history > history.txt
